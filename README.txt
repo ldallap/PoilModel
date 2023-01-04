@@ -16,3 +16,13 @@
 
   Writen by Leonardo Dalla Porta and Mauro Copelli 2016   (updated 2018)
 	Contact: leonardodallaporta@gmail.com
+
+
+
+
+  Network.cpp
+
+  It is the implementation of the Poil network with modifications.
+  While it allows to build a 2D squared network with squared matrix of connections, the
+  new implementation also allows for a 2d rectangular network with rectangular matrix of conenctions.
+  Of course, both can be mixed.
